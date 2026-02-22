@@ -1,0 +1,1 @@
+// This file is deprecated. Logic has been moved back to React components (App.tsx).
